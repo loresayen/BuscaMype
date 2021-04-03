@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\FRONT END\\Busca Mype\\assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BuscaMype"
+	}
+}
